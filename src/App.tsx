@@ -1,8 +1,9 @@
 import React from 'react';
-import { View } from 'react-native';
+
+import QuizScreen from './screens/QuizScreen';
 
 const App = () => {
-  return <View />;
+  return <QuizScreen />;
 };
 
 export default App;
